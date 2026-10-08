@@ -1,3 +1,7 @@
 # Daniil Tsioma
 
-Software engineer building reliable systems.
+Software engineer with 3+ years of professional web development experience, mostly on the front end. At Stova I built and maintained production marketing pages with 95+ Lighthouse scores, created a library of 50+ reusable components, cut page size by about 30%, and improved accessibility to WCAG guidelines. Before that I delivered a production redesign of FRDM AI's flagship product under a tight deadline, building dashboard components in Svelte, React, TypeScript, and Tailwind alongside the CEO and VP of Engineering, and built custom WordPress templates in PHP at MeetingPlay.
+
+I hold a B.S. in Computer Science from Portland State University. For my capstone, PCEP Process Automation, a team of six of us built and shipped an internship recruitment platform to production. I delivered API features, led a mid-project refactor to decouple the front end from the back end, and integrated a custom Gale-Shapley matching algorithm into the Python SDK.
+
+Outside of work I build projects across the stack. My double-entry ledger API (Python, FastAPI, PostgreSQL) handles idempotent, atomic transfers safely under concurrent load, with race-condition tests and Locust load tests. I'm also building a file storage service in Go, and I led a team of four on Hobby Dev Hub (TypeScript, React, Node, MongoDB), a platform where student developers post projects and apply to collaborate, with GitHub OAuth and repository invites. I'm looking for a full-time software engineering role and am open to relocating.
